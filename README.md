@@ -102,5 +102,18 @@
 | **Nurture**      | To care for and encourage the growth or development of something.   | पोषण करणे, जोपासना.           |
 | **Survive**      | To continue to live or exist, especially in difficult conditions.   | जिवंत राहणे, टिकणे.           |
 | **Dew**          | Moisture condensed from the atmosphere that forms droplets on cool surfaces. | दवबिंदू.                 |
+| **Disgust**      | A strong feeling of dislike or revulsion.                           | तिरस्कार, घृणा.               |
+| **Dragged**      | Pulled something or someone along forcefully or with difficulty.    | ओढले, फरपटत नेले.            |
+| **Pits**         | Deep holes in the ground; a metaphor for unpleasant situations.     | खड्डे, उंचवटे.                |
+| **Harmony**      | A state of peaceful agreement or cooperation.                      | सुसंगती, ऐक्य.                |
+| **Focus**        | To give attention to something specific.                           | लक्ष केंद्रित करणे.            |
+| **Unraveled**    | Came apart or untangled; solved a mystery or problem.              | उलगडले, सोडवले.              |
+| **Concentrate**  | To focus all one's attention or effort on something.               | एकाग्र करणे.                  |
+| **Stink**        | To emit a strong, unpleasant smell.                                | दुर्गंध येणे.                 |
+| **Perhaps**      | Possibly, but not certainly.                                       | कदाचित, बहुतेक.               |
+| **Vowed**        | Made a solemn promise or commitment.                               | शपथ घेतली, प्रतिज्ञा केली.     |
+| **Rotted**       | Decayed or decomposed due to bacteria or fungi.                    | सडले, कुजले.                  |
+| **Obey**         | To follow commands or comply with rules or instructions.           | आज्ञा पाळणे, आदेश मानणे.       |
+| **Tempt**        | To entice or persuade someone to do something, often by offering something appealing. | प्रलोभित करणे.    |
 
-This table provides the new words with their meanings in both English and Marathi.
+This table provides the new vocabulary with their meanings in both English and Marathi.
