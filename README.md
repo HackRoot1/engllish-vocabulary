@@ -83,5 +83,24 @@
 | **Utter**       | To speak or express something aloud.                                | उच्चारणे, सांगणे.              |
 | **Disregard**   | To ignore or pay no attention to something.                         | दुर्लक्ष करणे.                 |
 | **Hygiene**     | Practices to maintain health and prevent disease.                   | स्वच्छता, आरोग्य.             |
+| **Awkward**      | Causing discomfort or embarrassment; lacking grace.                 | अवघड, बेचैन करणारे.          |
+| **Disgrace**     | Loss of respect or reputation due to dishonorable actions.          | अपमान, नामुष्की.             |
+| **Sacred**       | Regarded with great respect and reverence, often in a religious context. | पवित्र.                   |
+| **Wisdom**       | The ability to make sound judgments based on knowledge or experience.| शहाणपण, ज्ञान.               |
+| **Probably**     | Likely to happen or be the case.                                    | कदाचित.                       |
+| **Sucked**       | Pulled in by suction, or a term to describe something unpleasant.   | शोषले, खूप वाईट होते.         |
+| **Concerned**    | Worried or anxious about something.                                 | चिंताग्रस्त.                  |
+| **Revealed**     | Made known or shown something that was previously hidden.           | उघड केले.                     |
+| **Stuck**        | Unable to move or be freed from a position.                         | अडकलं.                        |
+| **Appreciate**   | To recognize the value or importance of something.                  | कौतुक करणे, आभार मानणे.       |
+| **Flexibility**  | The ability to bend easily without breaking; adaptability.          | लवचिकता, अनुकूलता.           |
+| **Souvenirs**    | Items kept as reminders of places or events.                        | आठवणीच्या वस्तू.              |
+| **Knuckles**     | The joints in the fingers where they meet the hand.                 | बोटांची सांधे.                |
+| **Outraged**     | Extremely angry or furious.                                         | संतप्त.                       |
+| **Since**        | From a particular time in the past until now.                       | पासून, तेव्हापासून.           |
+| **Illusion**     | A false idea or belief; something that deceives the senses.         | भ्रम, भास.                   |
+| **Nurture**      | To care for and encourage the growth or development of something.   | पोषण करणे, जोपासना.           |
+| **Survive**      | To continue to live or exist, especially in difficult conditions.   | जिवंत राहणे, टिकणे.           |
+| **Dew**          | Moisture condensed from the atmosphere that forms droplets on cool surfaces. | दवबिंदू.                 |
 
-This table presents the new words along with their meanings in both English and Marathi for easy understanding.
+This table provides the new words with their meanings in both English and Marathi.
