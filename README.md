@@ -1,6 +1,6 @@
 # engllish-vocabulary
 
-Here is the vocabulary list in table format:
+
 
 | **Word**       | **Meaning (English)**                                               | **Meaning (Marathi)**        |
 |----------------|---------------------------------------------------------------------|------------------------------|
@@ -36,5 +36,21 @@ Here is the vocabulary list in table format:
 | **Agreed**     | Came to the same opinion or understanding.                          | सहमती दिली.                  |
 | **Demons**     | Evil spirits or supernatural beings.                                | भुते, राक्षस.                |
 | **Mountain**   | A large natural elevation of the Earth's surface.                   | पर्वत.                        |
+| **Moment**      | A brief period of time.                                              | क्षण.                        |
+| **Sign**        | A gesture or action used to convey information; a symbol.            | चिन्ह, खूण.                 |
+| **Sharp**       | Having an edge or point capable of cutting or piercing.              | तीक्ष्ण.                      |
+| **Entrusted**   | Given the responsibility for something or someone.                  | सोपवलेले.                    |
+| **Secret**      | Something kept hidden or unknown to others.                         | गुपित.                       |
+| **Ingredient**  | A component part of something, especially in cooking.               | घटक.                         |
+| **Fulfil**      | To complete or achieve a desired goal or requirement.               | पूर्ण करणे.                  |
+| **Destiny**     | The events that will necessarily happen in the future.              | नियती.                       |
+| **Folk**        | People in general, especially in a specific group or community.      | लोक.                         |
+| **Broth**       | A thin soup, typically made by boiling meat or vegetables.          | सूप, शोरबा.                 |
+| **Veins**       | Blood vessels that carry blood to the heart.                        | शिरा.                        |
+| **Besides**     | In addition to; apart from.                                          | व्यतिरिक्त.                  |
+| **Service**     | The action of helping or doing work for someone.                    | सेवा.                        |
+| **Disappoint**  | To fail to fulfill the hopes or expectations of someone.            | निराश करणे.                 |
+| **Ferocity**    | The state or quality of being ferocious or savage.                  | क्रौर्य.                      |
+| **Subtlety**    | The quality of being delicate, elusive, or fine in perception.       | सूक्ष्मता.                   |
 
-This table organizes the vocabulary along with their meanings in English and Marathi for easier reference.
+This table format organizes the new set of vocabulary words with their meanings in both English and Marathi.
