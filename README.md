@@ -52,5 +52,36 @@
 | **Disappoint**  | To fail to fulfill the hopes or expectations of someone.            | निराश करणे.                 |
 | **Ferocity**    | The state or quality of being ferocious or savage.                  | क्रौर्य.                      |
 | **Subtlety**    | The quality of being delicate, elusive, or fine in perception.       | सूक्ष्मता.                   |
+| **Vision**      | The ability to see; a mental image of the future.                   | दृष्टिकोन, दृष्टि.            |
+| **Return**      | To come or go back to a place or person.                            | परतणे.                        |
+| **Impossible**  | Not able to occur, exist, or be done.                               | अशक्य.                        |
+| **Prison**      | A place where people are legally held as punishment for a crime.    | तुरुंग.                       |
+| **Leave**       | To go away from a place or situation.                               | सोडणे, निघणे.                 |
+| **Avoid**       | To keep away from or stop oneself from doing something.             | टाळणे.                        |
+| **March**       | To walk in a deliberate and organized manner, typically for a purpose.| मार्च करणे.                 |
+| **Agitated**    | Feeling or appearing troubled or nervous.                           | अस्वस्थ.                      |
+| **Difficult**   | Needing much effort or skill to accomplish.                         | कठीण.                         |
+| **Settle**      | To resolve or establish something permanently.                      | स्थिर होणे, ठरवणे.            |
+| **Limitless**   | Without end, limit, or boundary.                                    | अमर्याद.                      |
+| **Pardon**      | To forgive or excuse someone for an error or offense.               | क्षमा करणे.                   |
+| **Glad**        | Feeling pleasure or happiness.                                      | आनंदी.                        |
+| **Spots**       | Small marks or patches differing in color or texture.               | डाग, ठिपके.                   |
+| **Souvenir**    | An item kept as a reminder of a place or event.                     | आठवण म्हणून ठेवलेली वस्तू.     |
+| **Tournament**  | A series of contests or competitions.                               | स्पर्धा.                      |
+| **Honor**       | High respect or esteem for someone or something.                    | सन्मान.                       |
+| **Fell**        | Past tense of fall; to drop down.                                   | पडले.                        |
+| **Accident**    | An unexpected and undesirable event.                                | अपघात.                       |
+| **Quit**        | To leave or stop doing something.                                   | सोडणे, थांबवणे.               |
+| **Precautions** | Actions taken to prevent something dangerous from happening.        | काळजीपूर्वक उपाय.             |
+| **Adequate**    | Sufficient for a specific requirement.                              | पुरेसे.                       |
+| **Security**    | The state of being free from danger or threat.                      | सुरक्षा.                      |
+| **Messenger**   | A person who carries a message or information.                      | दूत.                          |
+| **Behold**      | To see or observe something impressive or remarkable.               | पाहणे, निरीक्षण करणे.          |
+| **Immobilized** | Prevented from moving or functioning.                               | अचल केलेले.                   |
+| **Slight**      | Small in degree; not significant.                                   | थोडे, किरकोळ.                 |
+| **Ridiculous**  | Deserving or inviting mockery or derision.                          | हास्यास्पद.                   |
+| **Utter**       | To speak or express something aloud.                                | उच्चारणे, सांगणे.              |
+| **Disregard**   | To ignore or pay no attention to something.                         | दुर्लक्ष करणे.                 |
+| **Hygiene**     | Practices to maintain health and prevent disease.                   | स्वच्छता, आरोग्य.             |
 
-This table format organizes the new set of vocabulary words with their meanings in both English and Marathi.
+This table presents the new words along with their meanings in both English and Marathi for easy understanding.
