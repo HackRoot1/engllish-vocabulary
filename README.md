@@ -1,6 +1,7 @@
 ### **Movie 1: Kung Fu Panda**
 
 [Luca Movie Sentences](./luca-movie-sentences/README.md)
+[Luck Movie Sentences](./luck-movie-sentences/README.md)
 
 ### **Noun Table**
 
