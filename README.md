@@ -1,5 +1,7 @@
 ### **Movie 1: Kung Fu Panda**
 
+[Luca Movie Sentences](./luca-movie-sentences/README.md)
+
 ### **Noun Table**
 
 | **Noun**       | **Meaning (English)**                               | **Meaning (Marathi)**               |
