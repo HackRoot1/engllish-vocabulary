@@ -47,3 +47,5 @@ Here is the table with the new set of sentences in ascending order of tense, alo
 |                     | Why did you make him mad?                                                                                      | तुम्ही त्याला रागवले का?                                                  | Why + did + subject + base form of verb             |
 | **Simple Future**   | I’ll show you some more stuff!                                                                                | मी तुला अजून काही दाखवेन!                                               | Subject + will + base form of verb + object         |
 | **Past Continuous** | I was just curious.                                                                                           | मला फक्त जिज्ञासा होती.                                                  | Subject + was/were
+
+[Back to Main README](../README.md)
