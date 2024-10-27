@@ -62,3 +62,6 @@
 |                     | You sure he won’t mind?                                                                                     | तुला खात्री आहे की त्याला हरकत नाही?                                      | Subject + will + not + base form of verb         |
 |                     | I’ll try my best.                                                                                           | मी माझा सर्वोत्तम प्रयत्न करेन.                                            | Subject + will + base form of verb + object      |
 |                     | I think she can do it.                                                                                      | मला वाटते की ती करू शकेल.                                                 | Subject + can + base form of verb + object       |
+
+
+[Back to Main README](../README.md)
