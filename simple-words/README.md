@@ -1,69 +1,68 @@
 ### Simple words and their meaning in marathi
 
 
-| **Category**               | **Word**          | **Marathi Meaning**        |
-|----------------------------|-------------------|----------------------------|
-| **Subject Pronouns**       | I                 | मी                          |
-|                            | we                | आम्ही                       |
-|                            | you               | तू / तुम्ही                  |
-|                            | he                | तो                          |
-|                            | she               | ती                          |
-|                            | it                | ते / ती / तो (नपुंसकलिंगी)   |
-|                            | they              | ते                          |
-| **Demonstrative Pronouns** | this              | हे / ही / हा                 |
-|                            | that              | ते / ती / तो                 |
-|                            | these             | हे                           |
-|                            | those             | ती                          |
-| **Interrogative Pronouns** | who               | कोण                         |
-|                            | what              | काय                         |
-|                            | which             | कोणता / कोणती               |
-|                            | whom              | ज्याला / ज्यांना            |
-|                            | whose             | ज्याचा / ज्याची / ज्याचे     |
-| **Object Pronouns**        | me                | मला                         |
-|                            | us                | आम्हाला                      |
-|                            | him               | त्याला                      |
-|                            | her               | तिला                       |
-|                            | them              | त्यांना                     |
-| **Possessive Adjectives**  | my                | माझा / माझी / माझे          |
-|                            | our               | आमचा / आमची / आमचे         |
-|                            | your              | तुझा / तुमचा                |
-|                            | his               | त्याचा                      |
-|                            | her               | तिचा                       |
-|                            | its               | त्याचे / तिचे                |
-|                            | their             | त्यांचा                     |
-| **Possessive Pronouns**    | mine              | माझे / माझी / माझा         |
-|                            | ours              | आमचे / आमचा                 |
-|                            | yours             | तुझे / तुमचे                |
-|                            | his               | त्याचे                      |
-|                            | hers              | तिचे                       |
-|                            | theirs            | त्यांचे                     |
-| **Reflexive Pronouns**     | myself            | स्वत:ला                     |
-|                            | yourself          | स्वत:ला                     |
-|                            | himself           | त्याने स्वत:ला              |
-|                            | herself           | तिने स्वत:ला                |
-|                            | itself            | त्याने स्वत:ला (नपुंसकलिंगी) |
-|                            | ourselves         | स्वत:साठी                   |
-|                            | yourselves        | स्वत:साठी                   |
-|                            | themselves        | स्वत:साठी                   |
-| **Negative Quantifiers**   | no                | नाही                       |
-|                            | not               | नाही                       |
-| **Quantity**               | much              | बरेच (जास्त)               |
-|                            | many              | बरेच (अनेक)                |
-|                            | few               | थोडे                        |
-|                            | little            | थोडे                        |
-|                            | some              | काही                        |
-|                            | any               | कुठलेही                     |
-|                            | each              | प्रत्येक                     |
-|                            | every             | प्रत्येक                     |
-|                            | several           | काही                       |
-| **Indefinite Pronouns**    | someone           | कोणी तरी                    |
-|                            | anyone            | कोणीही                      |
-|                            | everyone          | प्रत्येकजण                   |
-|                            | nobody            | कोणीही नाही                 |
-|                            | somebody          | कोणी तरी                    |
-|                            | everybody         | सगळे                        |
-|                            | something         | काहीतरी                     |
-|                            | anything          | काहीही                      |
-|                            | everything        | सर्वकाही                    |
-|                            | nothing           | काहीही नाही                 |
-
+| **Category**               | **Word**          | **Marathi Meaning**        | **When to Use (Usage Explanation)**                                                                                                                                                     |
+|----------------------------|-------------------|----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Subject Pronouns**       | I                 | मी                          | Used by the speaker to refer to themselves. <br> वक्ता स्वत:ला संदर्भ देण्यासाठी वापरतो.                                                      |
+|                            | we                | आम्ही                       | Used by the speaker to refer to themselves and others. <br> वक्ता स्वत: आणि इतर लोकांचा संदर्भ देण्यासाठी वापरतो.                                 |
+|                            | you               | तू / तुम्ही                  | Used to address someone directly. <br> समोरच्याला थेट संबोधण्यासाठी वापरले जाते.                                                                 |
+|                            | he                | तो                          | Used to refer to a male person not present. <br> एका अनुपस्थित पुरुषाचा संदर्भ देण्यासाठी वापरले जाते.                                           |
+|                            | she               | ती                          | Used to refer to a female person not present. <br> एका अनुपस्थित स्त्रीचा संदर्भ देण्यासाठी वापरले जाते.                                          |
+|                            | it                | ते / ती / तो (नपुंसकलिंगी)   | Used to refer to an animal, thing, or idea. <br> प्राणी, वस्तू किंवा संकल्पना यांचा संदर्भ देण्यासाठी वापरले जाते.                                   |
+|                            | they              | ते                          | Used to refer to multiple people or things. <br> अनेक लोक किंवा वस्तूंचा संदर्भ देण्यासाठी वापरले जाते.                                            |
+| **Demonstrative Pronouns** | this              | हे / ही / हा                 | Used to refer to something nearby or immediate. <br> जवळ असलेल्या किंवा तात्काळ गोष्टीचा संदर्भ देण्यासाठी वापरले जाते.                          |
+|                            | that              | ते / ती / तो                 | Used to refer to something farther away. <br> लांब असलेल्या गोष्टीचा संदर्भ देण्यासाठी वापरले जाते.                                                |
+|                            | these             | हे                           | Used to refer to multiple things nearby. <br> जवळील अनेक गोष्टींचा संदर्भ देण्यासाठी वापरले जाते.                                               |
+|                            | those             | ते                           | Used to refer to multiple things farther away. <br> लांब असलेल्या अनेक गोष्टींचा संदर्भ देण्यासाठी वापरले जाते.                                    |
+| **Interrogative Pronouns** | who               | कोण                         | Used to ask questions about a person. <br> एखाद्या व्यक्तीबद्दल प्रश्न विचारण्यासाठी वापरले जाते.                                                  |
+|                            | what              | काय                         | Used to ask questions about things or actions. <br> गोष्टी किंवा क्रियांबद्दल प्रश्न विचारण्यासाठी वापरले जाते.                                    |
+|                            | which             | कोणता / कोणती               | Used to ask questions about choices. <br> निवडीबद्दल प्रश्न विचारण्यासाठी वापरले जाते.                                                             |
+|                            | whom              | ज्याला / ज्यांना            | Used in formal contexts to refer to the object of a verb. <br> एका औपचारिक संदर्भात क्रियेच्या कर्माचा उल्लेख करण्यासाठी वापरले जाते.           |
+|                            | whose             | ज्याचा / ज्याची / ज्याचे     | Used to ask about possession. <br> मालकीबद्दल विचारण्यासाठी वापरले जाते.                                                                           |
+| **Object Pronouns**        | me                | मला                         | Used as the object of a sentence when referring to oneself. <br> स्वत:ला वाक्याच्या कर्म म्हणून संबोधण्यासाठी वापरले जाते.                         |
+|                            | us                | आम्हाला                      | Used as the object of a sentence when referring to the speaker and others. <br> वक्ता आणि इतरांचा कर्म म्हणून उल्लेख करण्यासाठी वापरले जाते.       |
+|                            | him               | त्याला                      | Used as the object of a sentence when referring to a male. <br> पुरुषाचा कर्म म्हणून उल्लेख करण्यासाठी वापरले जाते.                                  |
+|                            | her               | तिला                       | Used as the object of a sentence when referring to a female. <br> स्त्रीचा कर्म म्हणून उल्लेख करण्यासाठी वापरले जाते.                               |
+|                            | them              | त्यांना                     | Used as the object of a sentence when referring to multiple people. <br> अनेक लोकांचा कर्म म्हणून उल्लेख करण्यासाठी वापरले जाते.                   |
+| **Possessive Adjectives**  | my                | माझा / माझी / माझे          | Used to show ownership of something by the speaker. <br> वक्त्याच्या मालकीची गोष्ट दाखवण्यासाठी वापरले जाते.                                      |
+|                            | our               | आमचा / आमची / आमचे         | Used to show ownership of something by the speaker and others. <br> वक्ता आणि इतरांच्या मालकीची गोष्ट दाखवण्यासाठी वापरले जाते.                    |
+|                            | your              | तुझा / तुमचा                | Used to show ownership of something by the listener. <br> श्रोत्याच्या मालकीची गोष्ट दाखवण्यासाठी वापरले जाते.                                     |
+|                            | his               | त्याचा                      | Used to show ownership of something by a male. <br> पुरुषाच्या मालकीची गोष्ट दाखवण्यासाठी वापरले जाते.                                             |
+|                            | her               | तिचा                       | Used to show ownership of something by a female. <br> स्त्रीच्या मालकीची गोष्ट दाखवण्यासाठी वापरले जाते.                                           |
+|                            | its               | त्याचे / तिचे                | Used to show ownership of something by an object or animal. <br> वस्तू किंवा प्राण्याच्या मालकीची गोष्ट दाखवण्यासाठी वापरले जाते.                   |
+|                            | their             | त्यांचा                     | Used to show ownership of something by multiple people. <br> अनेक लोकांच्या मालकीची गोष्ट दाखवण्यासाठी वापरले जाते.                                |
+| **Possessive Pronouns**    | mine              | माझे / माझी / माझा         | Used to show that something belongs to the speaker without repeating the noun. <br> वक्त्याच्या मालकीची गोष्ट दाखवण्यासाठी वापरले जाते.         |
+|                            | ours              | आमचे / आमचा                | Used to show shared ownership without repeating the noun. <br> आमच्या मालकीची गोष्ट दाखवण्यासाठी वापरले जाते.                                      |
+|                            | yours             | तुझे / तुमचे                | Used to show ownership by the listener without repeating the noun. <br> श्रोत्याच्या मालकीची गोष्ट दाखवण्यासाठी वापरले जाते.                        |
+|                            | his               | त्याचे                      | Used to show ownership by a male without repeating the noun. <br> पुरुषाच्या मालकीची गोष्ट दाखवण्यासाठी वापरले जाते.                                |
+|                            | hers              | तिचे                       | Used to show ownership by a female without repeating the noun. <br> स्त्रीच्या मालकीची गोष्ट दाखवण्यासाठी वापरले जाते.                              |
+|                            | theirs            | त्यांचे                     | Used to show ownership by multiple people without repeating the noun. <br> अनेक लोकांच्या मालकीची गोष्ट दाखवण्यासाठी वापरले जाते.                  |
+| **Reflexive Pronouns**     | myself            | स्वत:ला                     | Used when the subject and object of the sentence are the same. <br> जेव्हा वाक्यातील कर्ता आणि कर्म एकच असतात तेव्हा वापरले जाते.                  |
+|                            | yourself          | स्वत:ला                     | Used when the listener is both the subject and the object. <br> जेव्हा श्रोता कर्ता आणि कर्म दोन्ही असतो तेव्हा वापरले जाते.                         |
+|                            | himself           | त्याने स्वत:ला              | Used when a male is both the subject and the object. <br> जेव्हा एक पुरुष कर्ता आणि कर्म दोन्ही असतो तेव्हा वापरले जाते.                              |
+|                            | herself           | तिने स्वत:ला                | Used when a female is both the subject and the object. <br> जेव्हा एक स्त्री कर्ता आणि कर्म दोन्ही असते तेव्हा वापरले जाते.                          |
+|                            | itself            | त्याने स्वत:ला (नपुंसकलिंगी) | Used when an object or animal is both subject and object. <br> जेव्हा एक वस्तू किंवा प्राणी कर्ता आणि कर्म असतो तेव्हा वापरले जाते.                  |
+|                            | ourselves         | स्वत:साठी                   | Used for the speaker and others when they are both subject and object. <br> वक्ता आणि इतरांसाठी कर्ता व कर्म म्हणून वापरले जाते.                    |
+|                            | yourselves        | स्वत:साठी                   | Used for the listener(s) when they are both subject and object. <br> श्रोते कर्ता व कर्म म्हणून वापरले जातात तेव्हा वापरले जाते.                   |
+|                            | themselves        | स्वत:साठी                   | Used for multiple people when they are both subject and object. <br> अनेक लोकांसाठी कर्ता व कर्म म्हणून वापरले जाते.                               |
+| **Negative Quantifiers**   | no                | नाही                       | Used to negate a sentence, indicating the absence of something. <br> एखादी गोष्ट नाही असे दर्शवण्यासाठी वापरले जाते.                                 |
+|                            | not               | नाही                       | Used to make verbs negative. <br> क्रियापदांना नकारात्मक करण्यासाठी वापरले जाते.                                                                  |
+| **Quantity**               | much              | बरेच (जास्त)               | Used for large amounts that are uncountable. <br> जास्त प्रमाणात असलेल्या मोजता न येणार्‍या गोष्टींसाठी वापरले जाते.                                |
+|                            | many              | बरेच (अनेक)                | Used for large numbers of countable items. <br> अनेक मोजता येणार्‍या गोष्टींसाठी वापरले जाते.                                                     |
+|                            | few               | थोडे                        | Used for a small number of countable items. <br> थोड्या मोजता येणार्‍या गोष्टींसाठी वापरले जाते.                                                  |
+|                            | little            | थोडे                        | Used for a small amount of something uncountable. <br> मोजता न येणार्‍या कमी प्रमाणात असलेल्या गोष्टींसाठी वापरले जाते.                             |
+|                            | some              | काही                        | Used for an unspecified amount or number. <br> अनिश्चित प्रमाण किंवा संख्या दर्शवण्यासाठी वापरले जाते.                                            |
+|                            | any               | कुठलेही                     | Used for unspecified items in questions and negatives. <br> प्रश्न आणि नकारार्थी वाक्यांमध्ये अनिश्चित वस्तूंसाठी वापरले जाते.                       |
+|                            | each              | प्रत्येक                     | Used to refer to individual items in a group. <br> गटातील प्रत्येक गोष्टीचा उल्लेख करण्यासाठी वापरले जाते.                                       |
+|                            | every             | प्रत्येक                     | Used to refer to all members of a group without exception. <br> कोणत्याही अपवादाशिवाय गटातील प्रत्येकासाठी वापरले जाते.                            |
+|                            | several           | काही                       | Used to indicate more than two but not many. <br> दोन पेक्षा जास्त पण खूप नाही असे दर्शवण्यासाठी वापरले जाते.                                    |
+| **Indefinite Pronouns**    | someone           | कोणी तरी                    | Used to refer to an unknown person. <br> अज्ञात व्यक्तीचा संदर्भ देण्यासाठी वापरले जाते.                                                          |
+|                            | anyone            | कोणीही                      | Used to refer to any person without specification. <br> कोणत्याही व्यक्तीसाठी वापरले जाते.                                                        |
+|                            | everyone          | प्रत्येकजण                   | Used to include all people. <br> सर्व लोकांचा समावेश करण्यासाठी वापरले जाते.                                                                       |
+|                            | nobody            | कोणीही नाही                 | Used to indicate the absence of people. <br> लोकांचा अभाव दर्शवण्यासाठी वापरले जाते.                                                              |
+|                            | somebody          | कोणी तरी                    | Used for an unspecified person, often known or implied. <br> एका अनिश्चित व्यक्तीसाठी वापरले जाते, जो सामान्यतः ज्ञात किंवा सूचित असतो.           |
+|                            | everybody         | सगळे                        | Used to include all persons in a group. <br> गटातील सर्वांचा समावेश करण्यासाठी वापरले जाते.                                                        |
+|                            | something         | काहीतरी                     | Used to refer to an unspecified thing. <br> अनिश्चित गोष्टीचा संदर्भ देण्यासाठी वापरले जाते.                                                      |
+|                            | anything          | काहीही                      | Used for an unspecified item in questions or negatives. <br> प्रश्न किंवा नकारार्थी वाक्यांमध्ये अनिश्चित वस्तूसाठी वापरले जाते.                    |
+|                            | everything        | सर्वकाही                    | Used to include all items or aspects. <br> सर्व वस्तू किंवा बाबींचा समावेश करण्यासाठी वापरले जाते.                                                |
+|                            | nothing           | काहीही नाही                 | Used to indicate the absence of anything. <br> कशाचाही अभाव दर्शवण्यासाठी वापरले जाते.                                                            |
