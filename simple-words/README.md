@@ -66,3 +66,5 @@
 |                            | anything          | काहीही                      | Used for an unspecified item in questions or negatives. <br> प्रश्न किंवा नकारार्थी वाक्यांमध्ये अनिश्चित वस्तूसाठी वापरले जाते.                    |
 |                            | everything        | सर्वकाही                    | Used to include all items or aspects. <br> सर्व वस्तू किंवा बाबींचा समावेश करण्यासाठी वापरले जाते.                                                |
 |                            | nothing           | काहीही नाही                 | Used to indicate the absence of anything. <br> कशाचाही अभाव दर्शवण्यासाठी वापरले जाते.                                                            |
+
+[Back to Main README](../README.md)
