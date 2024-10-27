@@ -1,4 +1,4 @@
-###Simple words and their meaning in marathi
+### Simple words and their meaning in marathi
 
 
 | **Category**               | **Word**          | **Marathi Meaning**        |
