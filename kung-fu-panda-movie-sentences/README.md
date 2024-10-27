@@ -102,3 +102,6 @@
 | **Phrase**     | **Meaning (English)**                               | **Meaning (Marathi)**               |
 |----------------|-----------------------------------------------------|-------------------------------------|
 | Hang out       | To spend time casually with others.                  | मित्रांसोबत वेळ घालवणे              |
+
+
+[Back to Main README](../README.md)
