@@ -67,3 +67,4 @@
 | Mentor                   | मेंटर                       | मार्गदर्शक              |
 | Acquaintance             | अक्वेंटन्स                   | परिचित                |
 
+[Back to Main README](../README.md)
