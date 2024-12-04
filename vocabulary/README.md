@@ -3,7 +3,6 @@
 
 | **V1 (Base Form)** | **V2 (Past Simple)** | **V3 (Past Participle)** | **V4 (Present Participle)** | **Marathi Meaning** |
 |---------------------|----------------------|--------------------------|----------------------------|---------------------|
-
 | Accept              | Accepted            | Accepted                 | Accepting                  | स्वीकारणे            |
 | Achieve             | Achieved            | Achieved                 | Achieving                  | साध्य करणे           |
 | Admire              | Admired             | Admired                  | Admiring                   | कौतुक करणे           |
